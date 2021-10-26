@@ -1,0 +1,10 @@
+﻿  MathTriangle.cpp
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\MathTriangle.cpp(11,2): warning C4273: MathFuncs::MyMathFuncs::Gamma: несовместимое связывание dll
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\Header_MathTriangle.h(14,34): message : см. предыдущее определение "Gamma"
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\MathTriangle.cpp(18,2): warning C4273: MathFuncs::MyMathFuncs::Area: несовместимое связывание dll
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\Header_MathTriangle.h(15,34): message : см. предыдущее определение "Area"
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\MathTriangle.cpp(26,2): warning C4273: MathFuncs::MyMathFuncs::Side: несовместимое связывание dll
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\Header_MathTriangle.h(16,34): message : см. предыдущее определение "Side"
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\MathTriangle.cpp(31,2): warning C4273: MathFuncs::MyMathFuncs::Perimetr: несовместимое связывание dll
+C:\Users\ira50\source\repos\DLL_MathTriangle\MathTriangle\Header_MathTriangle.h(17,34): message : см. предыдущее определение "Perimetr"
+  MathTriangle.vcxproj -> C:\Users\ira50\source\repos\DLL_MathTriangle\Debug\MathTriangle.dll
